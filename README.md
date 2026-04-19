@@ -1,5 +1,7 @@
 # Pokemon-Pokopia-Desktop-Version
 
+[![maxresdefault-(4).jpg](https://i.postimg.cc/5NXFNPQr/maxresdefault-(4).jpg)](https://postimg.cc/xcSd63RG)
+
 # Pokémon Pokopia - Desktop Version
 
 **Pokémon Pokopia - Desktop Version** is a fully optimized PC desktop edition of the beloved life simulation game.  
@@ -68,11 +70,4 @@ MIT License – shared for educational and game preservation purposes only.
 
 If **Pokémon Pokopia Desktop Version** brought you hours of fun and relaxation — please star the repository! It helps more players enjoy this charming life sim on PC. ❤️
 
-## 📸 Screenshots
 
-![Pokémon Pokopia Screenshot 1](screenshots/1.png)  
-![Pokémon Pokopia Screenshot 2](screenshots/2.png)  
-![Pokémon Pokopia Screenshot 3](screenshots/3.png)  
-![Pokémon Pokopia Screenshot 4](screenshots/4.png)
-
-*Download high-quality official screenshots from: https://www.serebii.net/pokemonpokopia/pics.shtml and https://pokopia.pokemon.com/en-us/*
